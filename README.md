@@ -1,4 +1,4 @@
-Mr. AI <img width="480" height="274" alt="Suggestion" src="https://github.com/user-attachments/assets/c2efdc38-8de8-4c1d-9464-8c44141854a3" />
+Mr. AI
 
 =========
 
