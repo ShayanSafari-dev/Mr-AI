@@ -1,5 +1,6 @@
 **Mr. AI**
-*<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2942975d-a16a-4617-bdba-203e6f8d3da5" />
+
+-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2942975d-a16a-4617-bdba-203e6f8d3da5" />
 
 ----------
 
