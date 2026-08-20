@@ -112,7 +112,7 @@ Open:
 
 `   App.py   `
 
-Find:
+Find: (line 173 in App.py)
 
 `   API_KEY = "Replace with your OpenAI API key"   `
 
