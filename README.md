@@ -71,20 +71,6 @@ Mr. AI has two main parts:
 
 📁 Project Structure
 --------------------
-
-`   Mr-AI/  
-    ├── App.py  
-    ├── LoginScreen.py  
-    ├── requirements.txt  
-    ├── README.md  
-    ├── .gitignore  
-    │  └── design/
-    |      ├── logo/      
-    |      ├── buttons/      
-    |      ├── labels/      
-    |      └── background/   
-    |  └── voice/`
-
 The design folder is required because the application loads images and icons from it.
 
 The application also creates a voice/ folder while running to temporarily store generated voice files.
@@ -98,15 +84,15 @@ Install **Python 3.10+** on Windows.
 
 Check installation:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python --version   `
+`   python --version   `
 
 ### 2\. Clone the Repository
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/ShayanSafari-dev/Mr-AI.git  cd Mr-AI   `
+`   git clone https://github.com/ShayanSafari-dev/Mr-AI.git  cd Mr-AI   `
 
 ### 3\. Install Dependencies
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install -r requirements.txt   `
+`   pip install -r requirements.txt   `
 
 > ⚠️ SpeechRecognition may require PyAudio on some systems.
 
@@ -122,21 +108,21 @@ Create an API key from your OpenAI account.
 
 Open:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   App.py   `
+`   App.py   `
 
 Find:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   API_KEY = "Replace with your OpenAI API key"   `
+`   API_KEY = "Replace with your OpenAI API key"   `
 
 Replace it with:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   API_KEY = "YOUR_OPENAI_API_KEY"   `
+`   API_KEY = "YOUR_OPENAI_API_KEY"   `
 
 > 🔒 **Keep your real API key private.**
 
 ### 6\. Run the App
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python App.py   `
+`   python App.py   `
 
 🎙️ Voice Mode
 --------------
