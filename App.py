@@ -1,20 +1,4 @@
 #Mr. AI
-
-# 1 - Voice
-# 2 - Fixed answers
-# 3 - Real AI
-# 4 - Talk to AI / Type
-# 5 - Simple UI
-# 6 - Real UI - Chat app
-# 7 - Talking to AI UI
-# 8 - New UI
-# 9 - New Personality + Memory
-# 10- Copy button + voice button 
-# 11- Real intelligence
-# 12- login screen
-# 13- Name & more memory
-# 14- Back button
-
 # libaries ==========================
 #UI
 from PIL import Image
