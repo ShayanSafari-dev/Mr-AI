@@ -32,7 +32,7 @@ def extract_answer(text): # ChatGPT
         return text[start:end].strip()
     except:
         return 'Sorry, I couldn’t generate a response. ' \
-        'Please check your API key (line 189 - App.py) and internet connection.'
+        'Please check your API key (line 173 - App.py) and internet connection.'
 
 def extract_student_personality(text):
     if "|| Student Personality:" in text:
@@ -218,7 +218,7 @@ def get_answer(id):
         answers.append(str(response.choices[0].message.content))
     except:
         answers.append('Sorry, I couldn’t generate a response. ' \
-        'Please check your API key (line 189) and internet connection.') 
+        'Please check your API key (line 173) and internet connection.') 
 
 #Mr. AI ===============================================================================================
 #voice("Hello, I am Mr. AI, your personal assistant. Type in your question and I will try to answer it as best as I can.")
