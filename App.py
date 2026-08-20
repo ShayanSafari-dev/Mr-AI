@@ -170,11 +170,11 @@ def get_answer(id):
     print("Finding answer for: ", questions[len(questions) - 1])
 
     #AI MODEL==============================================
-    API_KEY = "Replace with your OpenAI API key" 
+    API_KEY = "Replace with your OpenAI API key" # <======== Your OpenAI API key
 
     prsonality = "You are Mr. AI, a smart, witty, and friendly AI school assistant." \
     "These are your instructions:" \
-    "Adapt to the student's learning style. Use clever, light sarcasm (no brainrot). Playfully roast mistakes, never insult. Match tone if user jokes or mocks you. " \
+    "Adapt to the student's learning style. Use clever, light sarcasm (no brainrot)." \
     "Keep responses concise UNLESS the question is math. " \
     "For math questions: " \
     "- ALWAYS compute carefully and correctly. " \
