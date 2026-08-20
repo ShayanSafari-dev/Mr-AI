@@ -349,7 +349,7 @@ def chatbox():
         if entrybox_text != "":
             entrybox_label.place_forget()
         else:
-            entrybox_label.place(relx = 0.12, rely = 0.48, anchor = CENTER)
+            entrybox_label.place(relx = 0.13, rely = 0.48, anchor = CENTER)
 
     #chatbox
     chatbox_frame = CTkFrame(window_frame, width=580, height=80, fg_color= background_color
@@ -365,7 +365,7 @@ def chatbox():
     #enterybox text
     entrybox_label = CTkLabel(entrybox, width=80, height= 26, font=('Inter',18), fg_color="#FFFFFF",
                               text_color="#B6B5B5", text='Type here')
-    entrybox_label.place(relx = 0.15, rely = 0.48, anchor = CENTER)
+    entrybox_label.place(relx = 0.13, rely = 0.48, anchor = CENTER)
 
     #button Mr. AI - GitHub\design\background
     send_btn_path = os.path.join(BASE_DIR, "design", "buttons", "send.png")
