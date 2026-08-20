@@ -3,7 +3,9 @@
 
 **Mr. AI** is a Python desktop AI assistant designed as a school project. It combines a modern CustomTkinter interface with AI-powered conversations, voice interaction, speech recognition, and simple student memory.
 
-> **Version:** v1.1**Platform:** Windows**Language:** Python
+> **Version:** v1.1
+>**Platform:** Windows
+>**Language:** Python
 
 ✨ Features
 ----------
