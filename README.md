@@ -72,7 +72,18 @@ Mr. AI has two main parts:
 📁 Project Structure
 --------------------
 
-`   Mr-AI/  │  ├── App.py  ├── LoginScreen.py  ├── requirements.txt  ├── README.md  ├── .gitignore  │  └── design/      ├── logo/      ├── buttons/      ├── labels/      └── background/   `
+`   Mr-AI/  
+    ├── App.py  
+    ├── LoginScreen.py  
+    ├── requirements.txt  
+    ├── README.md  
+    ├── .gitignore  
+    │  └── design/
+    |      ├── logo/      
+    |      ├── buttons/      
+    |      ├── labels/      
+    |      └── background/   
+    |  └── voice/`
 
 The design folder is required because the application loads images and icons from it.
 
