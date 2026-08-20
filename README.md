@@ -40,7 +40,7 @@
 
 ### ✅ Correct command:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python App.py   `
+`   python App.py   `
 
 The login system is already built into the app, so you do **NOT** need to start the login screen manually.
 
@@ -72,7 +72,7 @@ Mr. AI has two main parts:
 📁 Project Structure
 --------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Mr-AI/  │  ├── App.py  ├── LoginScreen.py  ├── requirements.txt  ├── README.md  ├── .gitignore  │  └── design/      ├── logo/      ├── buttons/      ├── labels/      └── background/   `
+`   Mr-AI/  │  ├── App.py  ├── LoginScreen.py  ├── requirements.txt  ├── README.md  ├── .gitignore  │  └── design/      ├── logo/      ├── buttons/      ├── labels/      └── background/   `
 
 The design folder is required because the application loads images and icons from it.
 
